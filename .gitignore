@@ -10,5 +10,11 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
+# Editor tmp files
+*.swp
+
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
+
+# dep maintained directory
+vendor
